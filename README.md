@@ -1,8 +1,7 @@
 # Kolaborasi
 
 <b>Pembuat : </b>Eko Muchamad Haryono <br>
-<b>Pembuat : </b>Rizki Mohamad (Temen Magang di Institut Agama Islam Tazkia)
-
+<b>Pembuat : </b>Rizki Mohamad (Temen Magang di Institut Agama Islam Tazkia)<br><br>
 <b>Notes : </b> Cara kolaborasi manual Awalnya tidak menggunakan git
 
 ## Aplikasi Komunitas Codeigniter 3 (CI 3)
