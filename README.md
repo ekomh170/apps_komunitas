@@ -1,15 +1,15 @@
 # Kolaborasi
 
-<b>Pembuat : </b>Eko Muchamad Haryono
+<b>Pembuat : </b>Eko Muchamad Haryono <br>
 <b>Pembuat : </b>Rizki Mohamad (Temen Magang di Institut Agama Islam Tazkia)
 
 <b>Notes : </b> Cara kolaborasi manual Awalnya tidak menggunakan git
 
 ## Aplikasi Komunitas Codeigniter 3 (CI 3)
 
-<b>Aplikasi Komunitas </b> Adalah Aplikasi Yang Berfungsi Sebagai Pengaturan Komunitas Yang Terdaftar Pada Aplikasi, Aplikas ini dibuat bersama temen magang saya di institut agama islam tazkia waktu tahun 2019/2020 saat waktu diluar jam kerja/magang sebagai latihan. total progress aplikasi ini hanya 30% dan tidak pernah diteruskan kembali. <br>
-<b>Total Pengerjaan : </b>30%
-<b>Notes : </b> Aplikasi ini masih jauh dari kata jadi atau selesai dibuat.
+<b>Aplikasi Komunitas </b> Adalah Aplikasi Yang Berfungsi Sebagai Pengaturan Komunitas Yang Terdaftar Pada Aplikasi, Aplikas ini dibuat bersama temen magang saya di institut agama islam tazkia waktu tahun 2019/2020 saat waktu diluar jam kerja/magang sebagai latihan. total progress aplikasi ini hanya 30% dan tidak pernah diteruskan kembali. <br><br>
+<b>Total Pengerjaan : </b>30%<br>
+<b>Notes : </b> Aplikasi ini masih jauh dari kata jadi atau selesai dibuat.<br>
 
 ## Fitur Role Atau Pembatasan Menu Untuk Setiap Users
 
@@ -23,71 +23,101 @@
 - Logout<br>
 - Halaman Utama<br><br>
 
-  A. Profile<br>
+  A. Data Pendaftar<br>
 
-- Ubah Data (Data Profile)<br>
-- Detail Data (Data Profile)<br><br>
+- Tambah Data (Data Pendaftar)<br>
+- Ubah Data (Data Pendaftar)<br>
+- Hapus Data (Data Pendaftar)<br>
+- Detail Data (Data Pendaftar)<br>
+- Cari Data (Data Pendaftar)<br>
+- Print Data (Data Pendaftar)<br>
+- PDF Data (Data Pendaftar)<br>
+- Print Data Detail (Data Pendaftar)<br>
+- PDF Data Detail (Data Pendaftar)<br>
+- Excel Export Data (Data Pendaftar)<br><br>
 
-  B. Data Pengguna<br>
+  B. Post<br>
 
-- Tambah Data (Data Pengguna)<br>
-- Ubah Data (Data Pengguna)<br>
-- Hapus Data (Data Pengguna)<br>
-- Detail Data (Data Pengguna)<br>
-- Cari Data (Data Pengguna)<br>
-- Print Data (Data Pengguna)<br>
-- PDF Data (Data Pengguna)<br>
-- Print Data Detail (Data Pengguna)<br>
-- PDF Data Detail (Data Pengguna)<br>
-- Excel Export Data (Data Pengguna)<br><br>
+- Tambah Data (Post)<br>
+- Ubah Data (Post)<br>
+- Hapus Data (Post)<br>
+- Detail Data (Post)<br>
+- Cari Data (Post)<br>
+- Print Data (Post)<br>
+- PDF Data (Post)<br>
+- Print Data Detail (Post)<br>
+- PDF Data Detail (Post)<br>
+- Excel Export Data (Post)<br><br>
 
-  C. Master Barang<br>
+  C. Saran dan Kritik<br>
 
-- Tambah Data (Master Barang)<br>
-- Ubah Data (Master Barang)<br>
-- Hapus Data (Master Barang)<br>
-- Detail Data (Master Barang)<br>
-- Cari Data (Master Barang)<br>
-- Print Data (Master Barang)<br>
-- PDF Data (Master Barang)<br>
-- Print Data Detail (Master Barang)<br>
-- PDF Data Detail (Master Barang)<br>
-- Excel Export Data (Master Barang)<br><br>
+- Tambah Data (Saran dan Kritik)<br>
+- Ubah Data (Saran dan Kritik)<br>
+- Hapus Data (Saran dan Kritik)<br>
+- Detail Data (Saran dan Kritik)<br>
+- Cari Data (Saran dan Kritik)<br>
+- Print Data (Saran dan Kritik)<br>
+- PDF Data (Saran dan Kritik)<br>
+- Print Data Detail (Saran dan Kritik)<br>
+- PDF Data Detail (Saran dan Kritik)<br>
+- Excel Export Data (Saran dan Kritik)<br><br>
 
-  C. Transaksi Pembelian<br>
+  C. Menu Akses Role<br>
 
-- Tambah Data (Transaksi Pembelian)<br>
-- Ubah Data (Transaksi Pembelian)<br>
-- Hapus Data (Transaksi Pembelian)<br>
-- Detail Data (Transaksi Pembelian)<br>
-- Cari Data (Transaksi Pembelian)<br>
-- Print Data (Transaksi Pembelian)<br>
-- PDF Data (Transaksi Pembelian)<br>
-- Print Data Detail (Transaksi Pembelian)<br>
-- PDF Data Detail (Transaksi Pembelian)<br>
-- Excel Export Data (Transaksi Pembelian)<br><br>
+- Tambah Data (Menu Akses Role)<br>
+- Ubah Data (Menu Akses Role)<br>
+- Hapus Data (Menu Akses Role)<br>
+- Detail Data (Menu Akses Role)<br>
+- Cari Data (Menu Akses Role)<br>
+- Print Data (Menu Akses Role)<br>
+- PDF Data (Menu Akses Role)<br>
+- Print Data Detail (Menu Akses Role)<br>
+- PDF Data Detail (Menu Akses Role)<br>
+- Excel Export Data (Menu Akses Role)<br><br>
 
-  C. Transaksi Pembelian Barang<br>
+  C. Menu Akses Role<br>
 
-- Tambah Data (Transaksi Pembelian Barang)<br>
-- Ubah Data (Transaksi Pembelian Barang)<br>
-- Hapus Data (Transaksi Pembelian Barang)<br>
-- Detail Data (Transaksi Pembelian Barang)<br>
-- Cari Data (Transaksi Pembelian Barang)<br>
-- Print Data (Transaksi Pembelian Barang)<br>
-- PDF Data (Transaksi Pembelian Barang)<br>
-- Print Data Detail (Transaksi Pembelian Barang)<br>
-- PDF Data Detail (Transaksi Pembelian Barang)<br>
-- Excel Export Data (Transaksi Pembelian Barang)<br><br>
+- Tambah Data (Menu Akses Role)<br>
+- Ubah Data (Menu Akses Role)<br>
+- Hapus Data (Menu Akses Role)<br>
+- Detail Data (Menu Akses Role)<br>
+- Cari Data (Menu Akses Role)<br>
+- Print Data (Menu Akses Role)<br>
+- PDF Data (Menu Akses Role)<br>
+- Print Data Detail (Menu Akses Role)<br>
+- PDF Data Detail (Menu Akses Role)<br>
+- Excel Export Data (Menu Akses Role)<br><br>
+
+  C. Role<br>
+
+- Tambah Data (Role)<br>
+- Ubah Data (Role)<br>
+- Hapus Data (Role)<br>
+- Detail Data (Role)<br>
+- Cari Data (Role)<br>
+- Print Data (Role)<br>
+- PDF Data (Role)<br>
+- Print Data Detail (Role)<br>
+- PDF Data Detail (Role)<br>
+- Excel Export Data (Role)<br><br>
+
+  C. Menu Akses Role<br>
+
+- Tambah Data (Menu Akses Role)<br>
+- Ubah Data (Menu Akses Role)<br>
+- Hapus Data (Menu Akses Role)<br>
+- Detail Data (Menu Akses Role)<br>
+- Cari Data (Menu Akses Role)<br>
+- Print Data (Menu Akses Role)<br>
+- PDF Data (Menu Akses Role)<br>
+- Print Data Detail (Menu Akses Role)<br>
+- PDF Data Detail (Menu Akses Role)<br>
+- Excel Export Data (Menu Akses Role)<br><br>
 
 ## Aplikasi Screenshot
 
-<img src="public/assets_readme/img/Halaman_Utama.PNG" alt="Halaman Utama">
-<img src="public/assets_readme/img/Halaman_Utama_Setelah_Login.PNG" alt="Halaman Setalah Login">
-<img src="public/assets_readme/img/Menu_Admin.PNG" alt="Menu Admin">
-<img src="public/assets_readme/img/Menu_Kasir.PNG" alt="Menu Kasir">
-<img src="public/assets_readme/img/Daftar_Transaksi.PNG" alt="Daftar Transaksi">
-<img src="public/assets_readme/img/Harga_Total.PNG" alt="Harga Total">
+<img src="assets_readme/img/Halaman_Utama.PNG" alt="Halaman Utama">
+<img src="assets_readme/img/Halaman_Utama_Setelah_Login.PNG" alt="Halaman Setalah Login">
 
 ## Alat Yang Digunakan Untuk Membuat Web :
 
