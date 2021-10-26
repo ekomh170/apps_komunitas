@@ -75,12 +75,12 @@ G. Role<br>
 - Hapus Data (Role)<br>
 - Detail Data (Role)<br>
 
-H. Menu Akses Role<br>
+H. Sub Menu<br>
 
-- Tambah Data (Menu Akses Role)<br>
-- Ubah Data (Menu Akses Role)<br>
-- Hapus Data (Menu Akses Role)<br>
-- Detail Data (Menu Akses Role)<br>
+- Tambah Data (Sub Menu)<br>
+- Ubah Data (Sub Menu)<br>
+- Hapus Data (Sub Menu)<br>
+- Detail Data (Sub Menu)<br>
 
 ## Aplikasi Screenshot
 
