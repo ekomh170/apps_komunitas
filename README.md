@@ -13,7 +13,9 @@
 ## Fitur Role Atau Pembatasan Menu Untuk Setiap Users
 
 - Admin
-- Kasir
+- Ketua Komunitas
+- Member Punya Komunitas
+- Member Tidak Punya Komunitas
 
 ## Fitur Aplikasi
 
@@ -22,101 +24,68 @@
 - Logout<br>
 - Halaman Utama<br><br>
 
-  A. Data Pendaftar<br>
+A. Data Pendaftar<br>
 
 - Tambah Data (Data Pendaftar)<br>
 - Ubah Data (Data Pendaftar)<br>
 - Hapus Data (Data Pendaftar)<br>
 - Detail Data (Data Pendaftar)<br>
-- Cari Data (Data Pendaftar)<br>
-- Print Data (Data Pendaftar)<br>
-- PDF Data (Data Pendaftar)<br>
-- Print Data Detail (Data Pendaftar)<br>
-- PDF Data Detail (Data Pendaftar)<br>
-- Excel Export Data (Data Pendaftar)<br><br>
 
-  B. Post<br>
+B. Post<br>
 
 - Tambah Data (Post)<br>
 - Ubah Data (Post)<br>
 - Hapus Data (Post)<br>
 - Detail Data (Post)<br>
-- Cari Data (Post)<br>
-- Print Data (Post)<br>
-- PDF Data (Post)<br>
-- Print Data Detail (Post)<br>
-- PDF Data Detail (Post)<br>
-- Excel Export Data (Post)<br><br>
 
-  C. Saran dan Kritik<br>
+C. Saran dan Kritik<br>
 
 - Tambah Data (Saran dan Kritik)<br>
 - Ubah Data (Saran dan Kritik)<br>
 - Hapus Data (Saran dan Kritik)<br>
 - Detail Data (Saran dan Kritik)<br>
-- Cari Data (Saran dan Kritik)<br>
-- Print Data (Saran dan Kritik)<br>
-- PDF Data (Saran dan Kritik)<br>
-- Print Data Detail (Saran dan Kritik)<br>
-- PDF Data Detail (Saran dan Kritik)<br>
-- Excel Export Data (Saran dan Kritik)<br><br>
 
-  C. Menu Akses Role<br>
+C. Saran dan Kritik<br>
 
-- Tambah Data (Menu Akses Role)<br>
-- Ubah Data (Menu Akses Role)<br>
-- Hapus Data (Menu Akses Role)<br>
-- Detail Data (Menu Akses Role)<br>
-- Cari Data (Menu Akses Role)<br>
-- Print Data (Menu Akses Role)<br>
-- PDF Data (Menu Akses Role)<br>
-- Print Data Detail (Menu Akses Role)<br>
-- PDF Data Detail (Menu Akses Role)<br>
-- Excel Export Data (Menu Akses Role)<br><br>
+- Tambah Data (Saran dan Kritik)<br>
+- Ubah Data (Saran dan Kritik)<br>
+- Hapus Data (Saran dan Kritik)<br>
+- Detail Data (Saran dan Kritik)<br>
 
-  C. Menu Akses Role<br>
+D. Data Komunitas<br>
+
+- Tambah Data (Data Komunitas)<br>
+- Ubah Data (Data Komunitas)<br>
+- Hapus Data (Data Komunitas)<br>
+- Detail Data (Data Komunitas)<br>
+
+E. Data Member Komunitas<br>
+
+F. Menu Akses Role<br>
 
 - Tambah Data (Menu Akses Role)<br>
 - Ubah Data (Menu Akses Role)<br>
 - Hapus Data (Menu Akses Role)<br>
 - Detail Data (Menu Akses Role)<br>
-- Cari Data (Menu Akses Role)<br>
-- Print Data (Menu Akses Role)<br>
-- PDF Data (Menu Akses Role)<br>
-- Print Data Detail (Menu Akses Role)<br>
-- PDF Data Detail (Menu Akses Role)<br>
-- Excel Export Data (Menu Akses Role)<br><br>
 
-  C. Role<br>
+G. Role<br>
 
 - Tambah Data (Role)<br>
 - Ubah Data (Role)<br>
 - Hapus Data (Role)<br>
 - Detail Data (Role)<br>
-- Cari Data (Role)<br>
-- Print Data (Role)<br>
-- PDF Data (Role)<br>
-- Print Data Detail (Role)<br>
-- PDF Data Detail (Role)<br>
-- Excel Export Data (Role)<br><br>
 
-  C. Menu Akses Role<br>
+H. Menu Akses Role<br>
 
 - Tambah Data (Menu Akses Role)<br>
 - Ubah Data (Menu Akses Role)<br>
 - Hapus Data (Menu Akses Role)<br>
 - Detail Data (Menu Akses Role)<br>
-- Cari Data (Menu Akses Role)<br>
-- Print Data (Menu Akses Role)<br>
-- PDF Data (Menu Akses Role)<br>
-- Print Data Detail (Menu Akses Role)<br>
-- PDF Data Detail (Menu Akses Role)<br>
-- Excel Export Data (Menu Akses Role)<br><br>
 
 ## Aplikasi Screenshot
 
-<img src="assets_readme/img/Halaman_Utama.PNG" alt="Halaman Utama">
-<img src="assets_readme/img/Halaman_Utama_Setelah_Login.PNG" alt="Halaman Setalah Login">
+<!-- <img src="assets_readme/img/Halaman_Utama.PNG" alt="Halaman Utama">
+<img src="assets_readme/img/Halaman_Utama_Setelah_Login.PNG" alt="Halaman Setalah Login"> -->
 
 ## Alat Yang Digunakan Untuk Membuat Web :
 
@@ -143,5 +112,6 @@ C. Komponen
 - Bootstrap 4
 - Template Tambahan :
   - Sb Admin 2 (Bootstrap 4)
+  - Sportz
 
 # Contributing to CodeIgniter 3

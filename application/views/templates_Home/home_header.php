@@ -64,7 +64,7 @@
             <nav class="site-navigation position-relative text-right bg-black text-md-right" role="navigation">
                 <div class="container position-relative">
                     <div class="site-logo">
-                        <!-- <a href="index.html"><img src="<?= base_url('assets2/'); ?>images/logo.png" alt=""></a> -->
+                        <a href="index.html"><img src="<?= base_url('assets2/'); ?>images/logo.png" alt=""></a>
                     </div>
 
                     <div class="d-inline-block d-md-none ml-md-0 mr-auto py-3"><a href="#"
@@ -82,7 +82,8 @@
                         <li><a href="<?= base_url('auth/logout'); ?>">Logout</a></li>
                         <?php } ?>
                         <?php if (!$this->session->userdata('email')) { ?>
-                        <li><a href="<?= base_url('auth'); ?>">Login</a></li>
+           
+             <li><a href="<?= base_url('auth'); ?>">Login</a></li>
                         <li><a href="<?= base_url('auth/register'); ?>">Register</a></li>
                         <?php } ?>
                     </ul>
