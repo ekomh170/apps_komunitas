@@ -112,14 +112,18 @@
                                 <p class="mb-0"><a href="<?= base_url('postdepan/') . $value->id_post ?>"
                                         class="btn btn-primary btn-sm px-4 py-2 rounded-0">Read More</a></p>
                             </div>
+
                         </div>
                     </div>
-                    <?php } ?>
+      
+              <?php } ?>
                 </div>
             </div>
             <br>
             <?php
-			echo $this->pagination->create_links();
+			if (isset($pagination)) {
+				echo $pagination;
+			}
 			?>
         </div>
     </div>

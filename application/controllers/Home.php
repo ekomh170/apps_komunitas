@@ -27,11 +27,12 @@ class Home extends CI_Controller
 		$config['per_page'] = $limit;
 		$config['num_links'] = 3;
 
-		$this->pagination->initialize($config);
-
+		$data['pagination'] = $this->pagination->initialize($config);
 		$data['offset'] = $this->uri->segment(3);
 		$this->db->order_by('id_post', 'desc');
 		$data['data'] = $this->Post_model->GetDataPost($limit, $offset);
+
+
 
 		$this->load->view('templates_Home/home_header', $data);
 		$this->load->view('Home/index', $data);
