@@ -1,8 +1,9 @@
 # Kolaborasi
 
 <b>Pembuat : </b>Eko Muchamad Haryono <br>
-<b>Pembuat : </b>Rizki Mohamad (Temen Magang di Institut Agama Islam Tazkia)<br><br>
-<b>Notes : </b> Cara kolaborasi manual Awalnya tidak menggunakan git
+<b>Pembuat : </b>Rizki Mohamad (Temen Magang di Institut Agama Islam Tazkia)<br>
+<b>Notes : </b> Cara kolaborasi manual Awalnya tidak menggunakan git<br>
+<b>Notes 2 : </b> Beberapa fitur terinspirasi dari yt unpas programming ci-3
 
 ## Aplikasi Komunitas Codeigniter 3 (CI 3)
 
@@ -82,7 +83,7 @@ H. Sub Menu<br>
 - Hapus Data (Sub Menu)<br>
 - Detail Data (Sub Menu)<br>
 
-## Aplikasi Screenshot
+<!-- ## Aplikasi Screenshot -->
 
 <!-- <img src="assets_readme/img/Halaman_Utama.PNG" alt="Halaman Utama">
 <img src="assets_readme/img/Halaman_Utama_Setelah_Login.PNG" alt="Halaman Setalah Login"> -->
